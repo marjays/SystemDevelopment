@@ -11,6 +11,9 @@ from email.message import EmailMessage
 import random
 import string
 
+
+########ADDED A COMMENT THERE, FOR TRIAL
+
 path = "files/"       
 icon_path = path+'logo.ico'
 valid_path = path+'valid.png'
