@@ -12,7 +12,7 @@ import random
 import string
 
 
-########ADDED A COMMENT THERE, FOR TRIAL
+#this is the update try in my github; why is it not workign?
 
 path = "files/"       
 icon_path = path+'logo.ico'
